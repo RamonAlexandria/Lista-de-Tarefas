@@ -19,16 +19,6 @@ JavaScript (ES6): Manipulação de elementos do DOM e lógica da aplicação.
 
 Material Design Icons (MDI): Ícones para os botões e marcadores de status.
 
-📂 Estrutura de Arquivos
-
-.
-├── index.html       # Estrutura HTML principal
-├── css/
-│   └── estilo.css   # Estilos da aplicação
-└── js/
-    └── controle.js  # Lógica de funcionamento (DOM)
-
-
 🔧 Como Executar o Projeto
 
 Clone ou baixe este repositório para o seu computador.
